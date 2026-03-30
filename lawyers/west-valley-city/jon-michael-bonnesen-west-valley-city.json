@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Jon Michael Bonnesen",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Since 2017, Jon has dedicated his legal career to managing a high-volume civil litigation caseload. He is actively involved in every stage of the litigation process—from initial client intake to filings, discovery, hearings, trials, and strategic settlement negotiations. Known for his practical approach and strong advocacy, Jon consistently achieves favorable outcomes for his clients.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "workers compensation litigation",
+    "workers compensation settlements",
+    "workers compensation denials",
+    "Workers Compensation Law",
+    "Utah Work Injury",
+    "St George Utah Workers Comp",
+    "Utah County Workers Comp",
+    "Ogden Workers Comp",
+    "Idaho Workers Comp",
+    "Idaho Work Injury"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "West Valley City"
+  }
+}
